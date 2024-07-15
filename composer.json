@@ -1,5 +1,5 @@
 {
-    "name": "deliciousbrains/wp-migrate-db-anonymization",
+    "name": "sozodesign/wp-migrate-db-anonymization",
     "description": "An extension to WP Migrate DB Pro that anonymizes user data",
     "type": "wordpress-plugin",
     "license": "GPLv3",
