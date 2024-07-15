@@ -8,7 +8,6 @@ class ComposerStaticInitf49459db5882320a46a7c08f16fcc735
 {
     public static $files = array (
         '6e3fae29631ef280660b3cdad06f25a8' => __DIR__ . '/..' . '/symfony/deprecation-contracts/function.php',
-        'd1642b6f8dc730c225bde2682648ca26' => __DIR__ . '/../..' . '/includes/Compatibility.php',
     );
 
     public static $prefixLengthsPsr4 = array (

@@ -1,24 +1,15 @@
 <?php return array(
     'root' => array(
-        'name' => 'deliciousbrains/wp-migrate-db-anonymization',
+        'name' => 'sozodesign/wp-migrate-db-anonymization',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '6405a8c390e4901b06cf303a98e47038a120c8c7',
+        'reference' => '1610bcd67a6415a709a7250656895c8ed60682cc',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'deliciousbrains/wp-migrate-db-anonymization' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '6405a8c390e4901b06cf303a98e47038a120c8c7',
-            'type' => 'wordpress-plugin',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'fakerphp/faker' => array(
             'pretty_version' => 'v1.23.1',
             'version' => '1.23.1.0',
@@ -34,6 +25,15 @@
             'reference' => 'c71ecc56dfe541dbd90c5360474fbc405f8d5963',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psr/container',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'sozodesign/wp-migrate-db-anonymization' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '1610bcd67a6415a709a7250656895c8ed60682cc',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
