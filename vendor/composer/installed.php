@@ -3,7 +3,7 @@
         'name' => 'sozodesign/wp-migrate-db-anonymization',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '1610bcd67a6415a709a7250656895c8ed60682cc',
+        'reference' => '8c2454d927a0c3e46a85d8fdb177757239186ec7',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -31,7 +31,7 @@
         'sozodesign/wp-migrate-db-anonymization' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '1610bcd67a6415a709a7250656895c8ed60682cc',
+            'reference' => '8c2454d927a0c3e46a85d8fdb177757239186ec7',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
